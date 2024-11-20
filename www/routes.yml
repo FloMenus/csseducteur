@@ -1,0 +1,11 @@
+/register:
+  controller: User
+  method: register
+
+/login: 
+  controller: User
+  method: login
+
+/page:
+  controller: Page
+  method: show
